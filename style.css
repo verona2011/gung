@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+        background-color: skyblue;
+        border-radius: 10px;
+        padding: 10px;
+        border: 3px solid darkturquoise ;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+    font-weight: 200;
+}
+
+footer {
+        background-color: lightgreen; 
+}
+
+ a {
+          border-radius: 10px;
+          background-color: coral;
+          padding: 4px;
+          border: 2px solid lightseagreen;
+          text-decoration: solid;
+          color: white;
+}
+
+img  {
+    margin: 10px;
+}
+
+h2 {
+    font-family: Verdana;
+    color: orange;
+}
+
+ main p {
+    border:3px solid darkturquoise;
+    text-size:20px;
+    border-radius: 10px;
+}
